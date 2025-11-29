@@ -1,5 +1,4 @@
 # llm_inference_project
-# llm_inference_project
 
 # Low-Latency LLM Chat Service with Speculative Decoding
 
